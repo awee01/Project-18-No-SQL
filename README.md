@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an API for a Social Network Application. It uses a Mongoose Database. 
+This is an API for a Social Network Application. It uses a Mongoose Database. The following features are available and showcased in the video:
 
 Users can create, delete, and update thoughts. 
 
