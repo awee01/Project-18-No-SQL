@@ -5,6 +5,7 @@
 This is an API for a Social Network Application. It uses a Mongoose Database. 
 
 Users can add, delete, and update thoughts. 
+
 Users can keep track of a friends list.
 
 ## Installation
