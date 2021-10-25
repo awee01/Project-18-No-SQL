@@ -1,8 +1,6 @@
 const {Schema, model} = require('mongoose');
 const dateFormat = require("../utils/dateFormat");
 
-
-
 const UserSchema = new Schema({
     username: {
         type: String,
@@ -25,7 +23,6 @@ const UserSchema = new Schema({
         ref: 'user'
     }]
 }, 
-
 
 {
     toJSON: {
