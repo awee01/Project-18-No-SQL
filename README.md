@@ -33,7 +33,7 @@ Then run using:
 
 ## Demo Video
 
-Part 1: Users + Thoughts: https://watch.screencastify.com/v/ABF1HpuODsWUETbs9GvR
+Part 1: Users + Thoughts: https://watch.screencastify.com/v/ogelBCnVCFeifP5haVTs
 
-Part 2: Reaction + Friend https://watch.screencastify.com/v/R8iCRgPlQQz1sjchgOQu
+Part 2: Reaction + Friend: https://watch.screencastify.com/v/uaFCQS9CLLDpkqy2p8mK
 
