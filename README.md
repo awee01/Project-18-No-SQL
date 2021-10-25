@@ -35,5 +35,5 @@ Then run using:
 
 Part 1: Users + Thoughts: https://watch.screencastify.com/v/ABF1HpuODsWUETbs9GvR
 
-Part 2: Reaction + Friend
+Part 2: Reaction + Friend https://watch.screencastify.com/v/R8iCRgPlQQz1sjchgOQu
 
