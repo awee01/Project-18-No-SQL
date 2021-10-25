@@ -7,7 +7,7 @@ This is an API for a Social Network Application. It uses a Mongoose Database. Th
 Users can create, delete, and update thoughts. 
 
 
-Users can create, delete reactions to thoughts.
+Users can create, delete reactions to thoughts. 
 
 
 Users can keep track of a friends list.
