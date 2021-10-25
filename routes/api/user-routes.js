@@ -1,18 +1,19 @@
-const router = require("express").Router();
+const router = require('express').Router();
 
 const {
-  getAllUser,
-  getUserById,
-  addUser,
-  updateUser,
-  deleteUser,
-  addFriend,
-  deleteFriend,
-}  = require("../../controllers/user-controller");
+
+    getAllUsers,
+    getUserById,
+    addUser,
+    updateUser,
+    deleteUser,
+    addFriend,
+    deleteFriend
+} = require('../../controllers/user-controller');
 
 router
     .route('/')
-    .get(getAllUser)
+    .get(getAllUsers)
     .post(addUser);
 
 router
