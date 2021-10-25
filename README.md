@@ -33,3 +33,7 @@ Then run using:
 
 ## Demo Video
 
+Part 1: Users + Thoughts: https://watch.screencastify.com/v/ABF1HpuODsWUETbs9GvR
+
+Part 2: Reaction + Friend
+
