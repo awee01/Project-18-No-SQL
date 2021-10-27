@@ -76,6 +76,7 @@ const userController = {
                 return;
             }
         
+            // makes sure that the delete user API has something to cycle back to after finished
             res.status(200).json({ message: "User Deleted" });
 
             return;
