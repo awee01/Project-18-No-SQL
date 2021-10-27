@@ -39,7 +39,7 @@ Adding User, Finding All Users, Finding 1 User, Updating a User, Deleting a User
 
 Adding Thought, Finding All Thoughts, Findign 1 Thought, Updating a Thought, Deleting a Thought
 
-https://watch.screencastify.com/v/bxh6KFY3qYaRbYhFazZm
+https://watch.screencastify.com/v/lJSbZT03oZcMfBexBoED
 
 **Part 2 Demomstrates:**
 
