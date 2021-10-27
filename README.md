@@ -33,7 +33,21 @@ Then run using:
 
 ## Demo Video
 
-Part 1: Users + Thoughts: https://watch.screencastify.com/v/bxh6KFY3qYaRbYhFazZm
+**Part 1 Demos:** 
 
-Part 2: Reaction + Friend: https://watch.screencastify.com/v/j0x3plWnAgIJKPTgDEbI
+Adding User, Finding All Users, Finding 1 User, Updating a User, Deleting a User
+
+Adding Thought, Finding All Thoughts, Findign 1 Thought, Updating a Thought, Deleting a Thought
+
+**Part 2 Demos:**
+
+Adding, Deleting a Reaction
+
+Adding, Deleting a Friend
+
+
+
+**Part 1:** Users + Thoughts: https://watch.screencastify.com/v/bxh6KFY3qYaRbYhFazZm
+
+**Part 2:** Reaction + Friend: https://watch.screencastify.com/v/j0x3plWnAgIJKPTgDEbI
 
