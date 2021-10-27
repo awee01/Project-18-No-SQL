@@ -12,6 +12,8 @@ Users can create, delete reactions to thoughts.
 
 Users can keep track of a friends list.
 
+Watch the videos for a demonstration 
+
 ## Installation
 
 Install Mongoose and Express on your computer with:
