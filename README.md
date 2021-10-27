@@ -33,21 +33,21 @@ Then run using:
 
 ## Demo Video
 
-**Part 1 Demos:** 
+**Part 1 Demonstrates:** 
 
 Adding User, Finding All Users, Finding 1 User, Updating a User, Deleting a User
 
 Adding Thought, Finding All Thoughts, Findign 1 Thought, Updating a Thought, Deleting a Thought
 
-**Part 2 Demos:**
+https://watch.screencastify.com/v/bxh6KFY3qYaRbYhFazZm
+
+**Part 2 Demomstrates:**
 
 Adding, Deleting a Reaction
 
 Adding, Deleting a Friend
 
+https://watch.screencastify.com/v/j0x3plWnAgIJKPTgDEbI
 
 
-**Part 1:** Users + Thoughts: https://watch.screencastify.com/v/bxh6KFY3qYaRbYhFazZm
-
-**Part 2:** Reaction + Friend: https://watch.screencastify.com/v/j0x3plWnAgIJKPTgDEbI
 
