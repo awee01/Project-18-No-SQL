@@ -15,7 +15,7 @@ const thoughtController = {
         //     select: "-__v",
         //   })
         .sort({ _id: -1 })
-        .then(dbThoughtData => res.json(dbThoughtData))
+        .then(data => res.json(data))
         .catch(err => {
             console.log(err);
             res.sendStatus(400);
@@ -26,12 +26,12 @@ const thoughtController = {
     thought.findOne({ _id: params.thoughtId })
 
     .select("-__v")
-    .then((dbThoughtData) => {
-        if (!dbThoughtData) {
+    .then((data) => {
+        if (!data) {
             res.status(404).json({ message: "No thought with this ID" });
             return;
         }
-        res.json(dbThoughtData);
+        res.json(data);
         })
         .catch(err => {
             console.log(err);
@@ -67,12 +67,12 @@ const thoughtController = {
     updateThought({ params, body }, res) {
     thought.findOneAndUpdate({ _id: params.thoughtId }, body, { new: true })
 
-        .then((dbThoughtData) => {
-        if (!dbThoughtData) {
+        .then((data) => {
+        if (!data) {
             res.status(404).json({ message: "No thought with this ID" });
             return;
         }
-        res.json(dbThoughtData);
+        res.json(data);
         })
         .catch(err => {
         console.log(err);
@@ -84,12 +84,12 @@ const thoughtController = {
     deleteThought({ params }, res) {
     thought.findOneAndDelete({ _id: params.thoughtId })
 
-    .then((dbThoughtData) => {
-        if (!dbThoughtData) {
+    .then((data) => {
+        if (!data) {
             res.status(404).json({ message: "No thought with this ID" });
             return;
         }
-        res.json(dbThoughtData);
+        res.json(data);
         })
         .catch(err => {
         console.log(err);
@@ -106,12 +106,12 @@ const thoughtController = {
         // { $addToSet: { reactions: body } },
         { new: true, runValidators: true }
         )
-        .then(dbThoughtData => {
-            if(!dbThoughtData) {
+        .then(data => {
+            if(!data) {
                 res.status(404).json({message: "No thought found with this id"});
                 return;
             }
-            res.json(dbThoughtData);
+            res.json(data);
         })
         .catch(err => {
             console.log(err);
@@ -127,7 +127,7 @@ const thoughtController = {
         { $pull: { reactions: { reactionId: params.reactionId }}},
         { new: true }
     )
-    .then(dbThoughtData => res.json(dbThoughtData))
+    .then(data => res.json(data))
     .catch(err => {
         console.log(err);
         res.sendStatus(400);
